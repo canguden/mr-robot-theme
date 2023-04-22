@@ -1,11 +1,24 @@
 {
   "name": "mrrobot",
   "displayName": "Mr Robot",
-  "description": "",
+  "description": "Clean Hacker Theme",
+  "publisher": "th3g3ntl3man",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/canguden/mr-robot-theme"
+  },
+  "keywords": [
+    "mrrobot",
+    "mr robot",
+    "hacker",
+    "hacker theme",
+    "dark one"
+  ],
   "engines": {
     "vscode": "^1.77.0"
   },
+  "icon": "mrrobot.png",
   "categories": [
     "Themes"
   ],
