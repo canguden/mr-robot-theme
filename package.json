@@ -1,0 +1,21 @@
+{
+  "name": "mrrobot",
+  "displayName": "Mr Robot",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mr Robot",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mr Robot-color-theme.json"
+      }
+    ]
+  }
+}
